@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="372.397" height="180.64" viewBox="0 0 372.397 180.64">
+  <g id="Componente_5_25" data-name="Componente 5 – 25" transform="translate(0 3.45)">
+    <text id="alert" transform="translate(0 137.19)" fill="#00b7b7" font-size="82" font-family="GoogleSans-Regular, Google Sans" letter-spacing="-0.05em"><tspan x="0" y="0">alert</tspan></text>
+    <text id="Push_de_button" data-name="Push de button" transform="translate(4 169.19)" fill="#1a2e35" font-size="32" font-family="SFProDisplay-Light, SF Pro Display" font-weight="300"><tspan x="0" y="0">Push de button</tspan></text>
+    <g id="wifi" transform="translate(307.474 -0.059) rotate(59)">
+      <path id="Trazado_41" data-name="Trazado 41" d="M.017,14.679a62.21,62.21,0,0,1,79.843-.266" transform="translate(20.244 28.474)" fill="none" stroke="#1a2e35" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Trazado_42" data-name="Trazado 42" d="M.027,23.018c34.388-30.445,85.8-30.616,119.992-.4" transform="translate(0 0)" fill="none" stroke="#1a2e35" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <path id="Trazado_43" data-name="Trazado 43" d="M.007,6.4a33.927,33.927,0,0,1,39.411-.131" transform="translate(40.204 56.947)" fill="none" stroke="#1a2e35" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+      <line id="Línea_23" data-name="Línea 23" x2="0.057" transform="translate(59.815 85.417)" fill="none" stroke="#1a2e35" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    </g>
+    <text id="dot" transform="translate(156 137.19)" fill="#1a2e35" font-size="82" font-family="GoogleSans-Medium, Google Sans" font-weight="500" letter-spacing="-0.05em"><tspan x="0" y="0">dot</tspan></text>
+  </g>
+</svg>
