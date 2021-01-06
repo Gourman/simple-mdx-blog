@@ -1,5 +1,13 @@
 import React from "react"
+import Container from "../components/Container";
 
-export default function Home() {
-  return <div>Hello world!</div>
+const IndexPage = () => {
+  return (
+
+    <Container>
+      <h1>Hello Word!</h1>
+    </Container>
+  );
 }
+
+export default IndexPage;
